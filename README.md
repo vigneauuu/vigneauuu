@@ -1,70 +1,10 @@
-# 👋 Hola, soy Matías Vigneau
+<h1 align="center">Hola 👋, Soy Matias Vigneau</h1>
+<h3 align="center">Me apasiona la programación y todo lo que involucra telecomunicaciones: redes, protocolos, infraestructura. - Lenguajes en los que más cómodo me siento: C++, Java. También tengo conocimientos en Python. - Entornos de trabajo: Linux y Windows, manejando muy bien VSCode. - Actualmente profundizo mis conocimientos en telecomunicaciones, redes y sistemas operativos.</h3>
 
-> Estudiante de Ingeniería Civil Informática y Telecomunicaciones en la Universidad Diego Portales (UDP)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/uu.vigneau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uu.vigneau" height="30" width="40" /></a>
+</p>
 
----
-
-## 🧰 Acerca de mí
-
-- Me encantan los desafíos que combinan programación con telecomunicaciones.  
-- Tengo experiencia y gusto por **C++**, **Java**, y algo de **Python**.  
-- Uso y administro entornos en **Linux** y **Windows**, y trabajo mucho con **VSCode**.  
-- Actualmente profundizando en conocimientos de redes y telecomunicaciones: protocolos, infraestructura, etc.  
-- Siempre aprendiendo, curioso, orientado a resolver problemas reales, trabajar en equipos, entregar código limpio y que funcione.
-
----
-
-## 🚀 Qué tecnologías conozco
-
-Aquí algunas de las herramientas / lenguajes / entornos con los que más cómodo me siento:
-
-| Lenguajes / Frameworks | Entornos / Herramientas | Otros conocimientos |
-|---|---|---|
-| C++ · Java · Python básico | Linux · Windows · Visual Studio Code | Fundamentos de telecomunicaciones · Redes · Sistemas operativos básicos |
-
----
-
-## 📂 Proyectos destacados
-
-> Aquí los repositorios que más representativos que puedes ver, donde se nota lo que sé hacer:
-
-- **Proyecto A**: implementación en C++ de [tema relacionado] — estructuras de datos, algoritmos, eficiencia, tests.  
-- **Proyecto B**: pequeña aplicación en Java para [descripción breve] — interfaz básica, manejo de archivos / bases de datos, buenas prácticas.  
-- **Proyecto C**: script/práctica en Python para automatizar algo / análisis de datos / tarea concreta — lo que aprendí: modulación, librerías, debugging.  
-
-*(Cuando haga mis commits / push finales, aquí se linkearán los repos respectivos con screenshots / instrucciones para correrlos.)*
-
----
-
-## 🔭 Estoy trabajando en / buscando
-
-- Hacer proyectos más prácticos que involucren redes, telecomunicaciones, simulaciones, performance.  
-- Mejorar mis habilidades en diseño de software: modularidad, testing, buenas prácticas.  
-- Conseguir una práctica profesional donde pueda aportar con programación + telecomunicaciones, aprender de gente con experiencia.
-
----
-
-## 📫 Contáctame
-
-| Medio | Dato |
-|---|---|
-| Email | nicolassvigneau@gmail.com |
-| LinkedIn | *[Pon aquí tu LinkedIn]* |
-| GitHub | https://github.com/MatíasVigneau *(o como sea tu usuario)* |
-
----
-
-## 📊 Mis estadísticas de GitHub
-
-\---
-
-> Aquí se podrían poner tarjetas tipo ``GitHub Readme Stats`` que muestren tus repositorios más activos, lenguajes usados, etc.  
-
----
-
-## ⚡ Frase que me motiva
-
-> “Los problemas reales no solo piden soluciones técnicas, piden soluciones que funcionen, que sean mantenibles y que ayuden a otros.”
-
----
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
