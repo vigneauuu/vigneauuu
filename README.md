@@ -15,6 +15,7 @@
 ---
 
 ### 🌐 Conecta conmigo
+-nicolassvigneau@gmail.com
 <p align="left">
   <a href="https://instagram.com/uu.vigneau" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uu.vigneau" height="30" width="40" />
