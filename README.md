@@ -1,18 +1,33 @@
+<div align="center">
+
 # Matías Vigneau
 
-Estudiante de Ingeniería Civil en Informática y Telecomunicaciones en la Universidad Diego Portales, Chile. Me interesan las redes, los protocolos, la seguridad y el desarrollo de software.
+**Redes · Seguridad · Desarrollo de software**
 
-## Proyectos
+Estudiante de Ingeniería Civil en Informática y Telecomunicaciones  
+Universidad Diego Portales · Chile
 
-- **[Caracterización de DNS protector](https://github.com/vigneauuu/Practica_DNS_VPN):** investigación en curso sobre respuestas DNS de perfiles de control parental. Incluye corpus auditable, mediciones reproducibles y análisis en Python.
-- **[Laboratorio de criptografía y seguridad](https://github.com/vigneauuu/lab3-criptografia-mobileread):** estudio documentado de hashes de contraseña del lado del cliente y controles de acceso, con scripts de verificación y límites explícitos de los resultados.
-- **[Simulación de tráfico AMQP](https://github.com/vigneauuu/RabbitMQ):** entorno con RabbitMQ, Docker y servicios Python para enviar, recibir y observar mensajes.
-- **[API de tienda](https://github.com/vigneauuu/Entrega3WEB):** proyecto académico con Node.js, Express, autenticación, productos, carrito, compras y documentación OpenAPI.
+</div>
 
-## Tecnologías que uso
+---
 
-Python · C++ · Java · JavaScript · Node.js · Docker · Linux · SQL
+### En qué estoy trabajando
 
-## Contacto
+Actualmente desarrollo mi Práctica I sobre **DNS protector y control parental**: construcción de un corpus auditable, mediciones reproducibles y análisis de respuestas DNS.
 
-[Correo electrónico](mailto:nicolassvigneau@gmail.com)
+### Proyectos seleccionados
+
+| Proyecto | Qué encontrarás |
+| --- | --- |
+| [Caracterización de DNS protector](https://github.com/vigneauuu/Practica_DNS_VPN) | Investigación en curso con Python, corpus documentado y metodología reproducible. |
+| [Laboratorio de seguridad](https://github.com/vigneauuu/lab3-criptografia-mobileread) | Análisis de hashes del lado del cliente y autenticación con una cuenta propia de pruebas. |
+| [Mensajería AMQP](https://github.com/vigneauuu/RabbitMQ) | Entorno local con RabbitMQ, Docker y servicios Python. |
+| [API de tienda](https://github.com/vigneauuu/Entrega3WEB) | Backend académico con Express, PostgreSQL, JWT y OpenAPI. |
+
+### Tecnologías
+
+`Python` · `C++` · `Java` · `JavaScript` · `Node.js` · `Docker` · `Linux` · `SQL`
+
+---
+
+**Contacto:** [nicolassvigneau@gmail.com](mailto:nicolassvigneau@gmail.com)
