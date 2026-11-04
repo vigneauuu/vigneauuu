@@ -1,61 +1,63 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&color=0B2447" width="100%" alt="Encabezado azul" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&color=0B2447" width="100%" alt="Encabezado azul" />
 </p>
 
-<h1 align="center">Hola, soy Matías Vigneau 👋</h1>
-<p align="center"><strong>Ingeniería Civil en Informática y Telecomunicaciones · UDP · Chile</strong></p>
+<h1 align="center">Matías Vigneau 👋</h1>
+<p align="center"><strong>Ingeniería Civil en Informática y Telecomunicaciones · Universidad Diego Portales · Chile</strong></p>
+<p align="center">Redes · Seguridad · Desarrollo de software</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=680&height=48&lines=Redes+%7C+Seguridad+%7C+Software;Entender+protocolos.+Construir+soluciones." alt="Redes, seguridad y software. Entender protocolos. Construir soluciones." />
+  Me interesa entender cómo se comunican los sistemas y convertir ese conocimiento en herramientas útiles.
+  Disfruto trabajar con protocolos, documentar lo que hago y construir resultados que se puedan revisar y repetir.
 </p>
 
 ---
 
-## Sobre mí
+## Actualmente
 
-Estudio Ingeniería Civil en Informática y Telecomunicaciones en la Universidad Diego Portales. Me interesa entender cómo se comunican los sistemas y convertir ese conocimiento en herramientas útiles. Trabajo principalmente en **redes, seguridad y desarrollo de software**, con atención a la documentación y a los resultados reproducibles.
+Estoy desarrollando mi <strong>Práctica I</strong>: una [caracterización reproducible de DNS protector](https://github.com/vigneauuu/Practica_DNS_VPN). El proyecto reúne un corpus documentado, consultas DNS controladas y análisis en Python para estudiar cómo responden distintos perfiles de protección. La evaluación final sigue en desarrollo.
 
-- **Ahora:** desarrollo mi Práctica I sobre DNS protector y control parental.
-- **Me gusta trabajar con:** Python, C++, Java y JavaScript.
-- **También exploro:** servicios de red, contenedores y análisis de protocolos.
+## Tecnologías que he usado
 
-## En qué estoy trabajando
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,bootstrap" alt="Python, C++, Java, JavaScript, HTML, CSS y Bootstrap" /><br />
+  <sub>Lenguajes e interfaz</sub>
+</p>
 
-### [Caracterización reproducible de DNS protector](https://github.com/vigneauuu/Practica_DNS_VPN)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,linux,bash,git" alt="Node.js, Express, PostgreSQL, Docker, Linux, Bash y Git" /><br />
+  <sub>Backend, datos y entorno</sub>
+</p>
 
-Investigación en curso sobre las respuestas de perfiles de protección DNS ante un corpus documentado. El proyecto separa señales de bloqueo, anomalías y errores de red, y conserva evidencia para que las mediciones puedan revisarse y repetirse.
-
-`Python` · `DNS` · `análisis de datos` · `metodología reproducible`
-
-## Proyectos seleccionados
-
-| Proyecto | Qué hice |
+| Área | Herramientas y conceptos presentes en mis proyectos |
 | --- | --- |
-| [Laboratorio de seguridad](https://github.com/vigneauuu/lab3-criptografia-mobileread) | Documenté una experiencia sobre hashes de contraseña del lado del cliente y autenticación con una cuenta propia de pruebas. |
-| [Mensajería AMQP](https://github.com/vigneauuu/RabbitMQ) | Construí un entorno local con RabbitMQ, Docker y servicios Python para enviar, recibir y observar mensajes. |
-| [API de tienda](https://github.com/vigneauuu/Entrega3WEB) | Desarrollé un backend académico con Express, PostgreSQL, autenticación y documentación OpenAPI. |
-| [Interfaz de tienda](https://github.com/vigneauuu/Entrega4WEB) | Implementé páginas de catálogo, carrito, usuario y administración que consumen una API. |
+| Redes y mensajería | DNS, TCP/IP, AMQP, RabbitMQ y Scapy |
+| Seguridad y análisis | Burp Suite, cURL, hashes y pruebas de autenticación en laboratorios |
+| Desarrollo y documentación | OpenAPI, Docker Compose, pytest y LaTeX |
+
+## Proyectos
+
+| Proyecto | Tecnologías | Qué encontrarás |
+| --- | --- | --- |
+| [DNS protector y control parental](https://github.com/vigneauuu/Practica_DNS_VPN) | Python · DNS · pytest | Investigación en curso con corpus auditable, motor de medición y metodología reproducible. |
+| [Laboratorio de seguridad](https://github.com/vigneauuu/lab3-criptografia-mobileread) | JavaScript · Node.js · Burp Suite | Análisis documentado de hashes del lado del cliente y autenticación con una cuenta propia de pruebas. |
+| [Mensajería AMQP](https://github.com/vigneauuu/RabbitMQ) | Python · RabbitMQ · Docker Compose · Scapy | Entorno local para enviar, recibir y observar mensajes. |
+| [API de tienda](https://github.com/vigneauuu/Entrega3WEB) | Node.js · Express · PostgreSQL · OpenAPI | Backend académico con autenticación, productos, carrito y documentación de API. |
+| [Interfaz de tienda](https://github.com/vigneauuu/Entrega4WEB) | HTML · CSS · JavaScript · Bootstrap | Páginas de catálogo, carrito, usuario y administración conectadas a una API. |
 
 <details>
-<summary>Otros trabajos académicos</summary>
+<summary>Más trabajos académicos</summary>
 
 - [Laboratorio 2 de Criptografía](https://github.com/vigneauuu/Lab2-Criptografia): comparación de respuestas HTTP en una instancia local de DVWA.
 - [Programación UDP](https://github.com/vigneauuu/ProgramacionUdp): ejercicios de C++, Java, estructuras de datos y desarrollo web.
+- [Laboratorio 1 de Criptografía](https://github.com/vigneauuu/Lab1-Criptografia): archivo de evidencias de una experiencia anterior.
 
 </details>
 
-## Tecnologías
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,express,postgres,docker,linux,git" alt="Python, C++, Java, JavaScript, Node.js, Express, PostgreSQL, Docker, Linux y Git" />
-</p>
-
-<p align="center"><code>Python</code> · <code>C++</code> · <code>Java</code> · <code>JavaScript</code> · <code>Node.js</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>Linux</code></p>
-
 ## Contacto
 
-Si quieres hablar de redes, seguridad o desarrollo de software, puedes escribirme a **[nicolassvigneau@gmail.com](mailto:nicolassvigneau@gmail.com)**.
+Puedes escribirme a [nicolassvigneau@gmail.com](mailto:nicolassvigneau@gmail.com) para conversar sobre redes, seguridad o desarrollo de software.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0B2447" width="100%" alt="Pie azul" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&color=0B2447" width="100%" alt="Pie azul" />
 </p>
