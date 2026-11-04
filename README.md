@@ -17,21 +17,31 @@
 
 Estoy desarrollando mi <strong>Práctica I</strong>: una [caracterización reproducible de DNS protector](https://github.com/vigneauuu/Practica_DNS_VPN). El proyecto reúne un corpus documentado, consultas DNS controladas y análisis en Python para estudiar cómo responden distintos perfiles de protección. La evaluación final sigue en desarrollo.
 
-## Tecnologías y herramientas
+## Tecnologías y herramientas que he usado (31)
 
-Estas son **31 tecnologías y herramientas que he usado** en trabajos publicados aquí. La lista refleja experiencia en proyectos y laboratorios, no un nivel de dominio idéntico en todas.
+### Lenguajes e interfaz
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,bootstrap" alt="Python, C++, Java, JavaScript, HTML, CSS y Bootstrap" /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,linux,bash,git" alt="Node.js, Express, PostgreSQL, Docker, Linux, Bash y Git" />
-</p>
+![Python](https://img.shields.io/badge/Python-0B2447?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-0B2447?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-0B2447?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-0B2447?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-0B2447?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-0B2447?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0B2447?style=for-the-badge) ![Handlebars](https://img.shields.io/badge/Handlebars-0B2447?style=for-the-badge)
 
-| Área | Tecnologías y herramientas | Dónde aparecen |
-| --- | --- | --- |
-| Lenguajes e interfaz (8) | Python · C++ · Java · JavaScript · HTML · CSS · Bootstrap · Handlebars | [Programación](https://github.com/vigneauuu/ProgramacionUdp) · [Interfaz de tienda](https://github.com/vigneauuu/Entrega4WEB) |
-| Backend y datos (9) | Node.js · Express · PostgreSQL · Neon · JWT · bcryptjs · OpenAPI · Swagger UI · HTTPX | [API de tienda](https://github.com/vigneauuu/Entrega3WEB) · [Práctica DNS](https://github.com/vigneauuu/Practica_DNS_VPN) |
-| Sistemas y redes (8) | Linux · Bash · Git · Docker · Docker Compose · RabbitMQ · dnspython · Scapy | [Mensajería AMQP](https://github.com/vigneauuu/RabbitMQ) · [Práctica DNS](https://github.com/vigneauuu/Practica_DNS_VPN) |
-| Pruebas y análisis (6) | pytest · GitHub Actions · cURL · Burp Suite · DVWA · LaTeX | [Práctica DNS](https://github.com/vigneauuu/Practica_DNS_VPN) · [Laboratorio 2](https://github.com/vigneauuu/Lab2-Criptografia) · [Laboratorio 3](https://github.com/vigneauuu/lab3-criptografia-mobileread) |
+En: [Programación UDP](https://github.com/vigneauuu/ProgramacionUdp) · [Interfaz de tienda](https://github.com/vigneauuu/Entrega4WEB).
+
+### Backend y datos
+
+![Node.js](https://img.shields.io/badge/Node.js-0B2447?style=for-the-badge) ![Express](https://img.shields.io/badge/Express-0B2447?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B2447?style=for-the-badge) ![Neon](https://img.shields.io/badge/Neon-0B2447?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-0B2447?style=for-the-badge) ![bcryptjs](https://img.shields.io/badge/bcryptjs-0B2447?style=for-the-badge) ![OpenAPI](https://img.shields.io/badge/OpenAPI-0B2447?style=for-the-badge) ![Swagger UI](https://img.shields.io/badge/Swagger%20UI-0B2447?style=for-the-badge) ![HTTPX](https://img.shields.io/badge/HTTPX-0B2447?style=for-the-badge)
+
+En: [API de tienda](https://github.com/vigneauuu/Entrega3WEB) · [Práctica DNS](https://github.com/vigneauuu/Practica_DNS_VPN).
+
+### Sistemas y redes
+
+![Linux](https://img.shields.io/badge/Linux-0B2447?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-0B2447?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-0B2447?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-0B2447?style=for-the-badge) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0B2447?style=for-the-badge) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0B2447?style=for-the-badge) ![dnspython](https://img.shields.io/badge/dnspython-0B2447?style=for-the-badge) ![Scapy](https://img.shields.io/badge/Scapy-0B2447?style=for-the-badge)
+
+En: [Mensajería AMQP](https://github.com/vigneauuu/RabbitMQ) · [Práctica DNS](https://github.com/vigneauuu/Practica_DNS_VPN).
+
+### Pruebas y análisis
+
+![pytest](https://img.shields.io/badge/pytest-0B2447?style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B2447?style=for-the-badge) ![cURL](https://img.shields.io/badge/cURL-0B2447?style=for-the-badge) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0B2447?style=for-the-badge) ![DVWA](https://img.shields.io/badge/DVWA-0B2447?style=for-the-badge) ![LaTeX](https://img.shields.io/badge/LaTeX-0B2447?style=for-the-badge)
+
+En: [Práctica DNS](https://github.com/vigneauuu/Practica_DNS_VPN) · [Laboratorio 2](https://github.com/vigneauuu/Lab2-Criptografia) · [Laboratorio 3](https://github.com/vigneauuu/lab3-criptografia-mobileread).
 
 ## Proyectos
 
