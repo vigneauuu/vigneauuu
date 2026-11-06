@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Matías Vigneau — Estudiante de Ingeniería Civil en Informática y Telecomunicaciones" />
+  <img src="./assets/basketball-header.svg" width="100%" alt="Matías Vigneau — Estudiante de Ingeniería Civil en Informática y Telecomunicaciones" />
 </p>
 
 <p align="center">
@@ -8,10 +8,10 @@
   <a href="mailto:nicolassvigneau@gmail.com">Contacto</a>
 </p>
 
-## Tecnologías
+## Mi stack
 
 <p align="center">
-  <img src="./assets/technology-stack.svg" width="100%" alt="C++, C, Python, Java, FastAPI, PostgreSQL, MongoDB, Redis, Google Cloud, AWS, Docker, Kubernetes, Nginx, Vercel, Linux, Bash, Kali Linux, Metasploit, Burp Suite, Wireshark, Arduino, VS Code, React, Next.js, TypeScript, Tailwind CSS, JavaScript, Node.js, Express y HTML" />
+  <img src="./assets/toolkit.svg" width="100%" alt="C++, C, Python, Java, FastAPI, PostgreSQL, MongoDB, Redis, Google Cloud, AWS, Docker, Kubernetes, Nginx, Vercel, Linux, Bash, Kali Linux, Metasploit, Burp Suite, Wireshark, Arduino, VS Code, React, Next.js, TypeScript, Tailwind CSS, JavaScript, Node.js, Express y HTML" />
 </p>
 
 ## DNS protector

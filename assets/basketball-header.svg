@@ -6,7 +6,14 @@
 <text x="48" y="140" fill="#f0f6fc" font-size="62" font-weight="700" font-family="Arial,Helvetica,sans-serif">Matías Vigneau</text>
 <text x="51" y="184" fill="#b3c4da" font-size="21" font-family="Arial,Helvetica,sans-serif">Estudiante de Ingeniería Civil en</text>
 <text x="51" y="216" fill="#b3c4da" font-size="21" font-family="Arial,Helvetica,sans-serif">Informática y Telecomunicaciones</text>
-<path d="M845 83h90l38 45h95m-223 81h70l58-81m-58 81h153" stroke="url(#accent)" stroke-width="3" fill="none" opacity=".75"/>
-<g fill="#0d1117" stroke="#38bdf8" stroke-width="3"><circle cx="845" cy="83" r="9"/><circle cx="845" cy="209" r="9"/><circle cx="973" cy="128" r="12"/><circle cx="1068" cy="128" r="9"/></g><circle cx="1068" cy="209" r="9" fill="#0d1117" stroke="#4ade80" stroke-width="3"/>
+<g role="img" aria-label="Tablero, aro y balón de básquet">
+<rect x="866" y="42" width="254" height="130" rx="10" fill="#142138" stroke="#94a3b8" stroke-width="3"/>
+<rect x="948" y="87" width="90" height="67" rx="3" fill="none" stroke="#e2e8f0" stroke-width="3"/>
+<path d="M940 166L959 224H1027L1046 166M958 168L974 224M977 170L990 224M1000 170L1007 224M1024 169L1024 224M945 183H1040M951 203H1034M946 173L1030 215M1041 173L958 215" fill="none" stroke="#b5c8df" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+<ellipse cx="993" cy="162" rx="58" ry="10" fill="#101a32" stroke="#fb923c" stroke-width="5"/>
+<path d="M1131 223Q1128 147 1066 147" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="5 7" opacity=".5"/>
+<g transform="rotate(-22 1094 217)"><circle cx="1094" cy="217" r="36" fill="#fb923c" stroke="#fdba74" stroke-width="2"/>
+<path d="M1058 217H1130M1094 181V253M1073 188Q1106 216 1073 246M1115 188Q1082 217 1115 246" fill="none" stroke="#572711" stroke-width="2.5"/>
+</g></g>
 <rect x="48" y="260" width="1104" height="3" rx="1.5" fill="url(#accent)"/>
 </svg>
