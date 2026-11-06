@@ -11,7 +11,7 @@
 ## Tecnologías
 
 <p align="center">
-  <img src="./assets/technologies.svg" width="100%" alt="C++, C, Python, Java, FastAPI, PostgreSQL, MongoDB, Redis, Google Cloud, AWS, Docker, Kubernetes, Nginx, Vercel, Linux, Bash, Kali Linux, Metasploit, Burp Suite, Wireshark, Arduino, VS Code, React, Next.js, TypeScript, Tailwind CSS, JavaScript, Node.js, Express y HTML" />
+  <img src="./assets/technology-stack.svg" width="100%" alt="C++, C, Python, Java, FastAPI, PostgreSQL, MongoDB, Redis, Google Cloud, AWS, Docker, Kubernetes, Nginx, Vercel, Linux, Bash, Kali Linux, Metasploit, Burp Suite, Wireshark, Arduino, VS Code, React, Next.js, TypeScript, Tailwind CSS, JavaScript, Node.js, Express y HTML" />
 </p>
 
 ## DNS protector
